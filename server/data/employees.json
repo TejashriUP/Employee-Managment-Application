@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Tejashri Panchbhai",
+    "code": "F100",
+    "profession": "Drywall Installer",
+    "color": "#FF6600",
+    "city": "Brampton",
+    "branch": "Abacus",
+    "assigned": true
+  },
+  {
+    "id": 2,
+    "name": "Hitesh Patil",
+    "code": "F101",
+    "profession": "Drywall Installer",
+    "color": "yellow",
+    "city": "Brampton",
+    "branch": "Pillsworth",
+    "assigned": false
+  },
+  {
+    "id": 3,
+    "name": "Madhuri Patil",
+    "code": "F102",
+    "profession": "Drywall Installer",
+    "color": "green",
+    "city": "Bolton",
+    "branch": "Abacus",
+    "assigned": false
+  },
+  {
+    "id": 4,
+    "name": "Savali Pathak",
+    "code": "F103",
+    "profession": "Drywall Installer",
+    "color": "#333333",
+    "city": "Bolton",
+    "branch": "Pillsworth",
+    "assigned": true
+  },
+  {
+    "id": 5,
+    "name": "Neel Shah",
+    "code": "F104",
+    "profession": "Drywall Installer",
+    "color": "#FF6600",
+    "city": "Brampton",
+    "branch": "Abacus",
+    "assigned": true
+  },
+  {
+    "id": 6,
+    "name": "Sahas Mule",
+    "code": "F105",
+    "profession": "Runner",
+    "color": "red",
+    "city": "Brampton",
+    "branch": "Pillsworth",
+    "assigned": false
+  },
+  {
+    "id": 7,
+    "name": "Geet Sharma",
+    "code": "F106",
+    "profession": "Runner",
+    "color": "red",
+    "city": "Toronto",
+    "branch": "Abacus",
+    "assigned": false
+  }
+]
